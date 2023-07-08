@@ -1,6 +1,6 @@
 ***License-Plate-Recognition***
 
-Machine learning
+**Machine learning**
 
 Recognition of the license number plate of vehicles is significant for the control and surveillance systems. It's a hard and intensive job for humans to manually recognize all the vehicle number plates. Hence, we built an efficient license number plate recognition system using deep learning that is extended to an application of E-challan.
 
