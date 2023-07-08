@@ -1,4 +1,4 @@
-License-Plate-Recognition
+***License-Plate-Recognition***
 
 Machine learning
 
@@ -10,7 +10,15 @@ Software : VS Code for coding, Kaggle for training.
 
 Language : Python
 
-Required Python Modules : OpenCV, matplotlib, Keras, TensorFlow, tkinter, sqlite3, smtplib
+Tools and Libraries:
+
+- Python==3.6
+- Keras==2.3.1
+- Tensorflow==1.14.0
+- Numpy==1.17.4
+- Matplotlib==3.2.1
+- OpenCV==4.1.0
+- sklearn==0.21.3
 
 Model used for Plate Detection : Wpod-net (Warped Planar Object Detection Network) architecture (pre-trained model)
 
@@ -55,8 +63,6 @@ References:
 Montazzolli, Sérgio & Jung, Claudio. (2018). License Plate Detection and Recognition in Unconstrained Scenarios. ( Link: https://openaccess.thecvf.com/content_ECCV_2018/papers/Sergio_Silva_License_Plate_Detection_ECCV_2018_paper.pdf )
 
 https://techvidvan.com/tutorials/python-project-license-number-plate-recognition/
-
-https://medium.com/@quangnhatnguyenle/detect-and-recognize-vehicles-license-plate-with-machine-learning-and-python-part-1-detection-795fda47e922
 
 Dataset and wpod-net pre trained model: https://github.com/quangnhat185/Plate_detect_and_recognize
 
